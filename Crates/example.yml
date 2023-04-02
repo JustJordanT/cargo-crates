@@ -1,0 +1,12 @@
+name: my_package
+version: 1.0.0
+download_urls:
+  - os: linux
+    url: https://example.com/my_package-1.0.0-linux.tar.gz
+    sha: abcdef1234567890
+  - os: macos
+    url: https://example.com/my_package-1.0.0-macos.tar.gz
+    sha: abcdef1234567890
+  - os: windows
+    url: https://example.com/my_package-1.0.0-windows.zip
+    sha: abcdef1234567890
