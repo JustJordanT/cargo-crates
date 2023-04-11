@@ -5,8 +5,8 @@ download_urls:
     url: https://example.com/my_package-1.0.0-linux.tar.gz
     sha: abcdef1234567890
   macos:
-    url: https://example.com/my_package-1.0.0-macos.tar.gz
-    sha: abcdef1234567890
+    url: https://github.com/JustJordanT/cargo-crates/releases/download/v1.0.1/tool-cli.zip
+    sha: 08319788342be2964bca65648fc9e881109e3fca9c396671a250bd14f2c20369
   windows:
     url: https://example.com/my_package-1.0.0-windows.zip
     sha: abcdef1234567890
